@@ -1,6 +1,6 @@
 #to add the file
 def add(x,y):
-    pass
+    return x+y
 #to substract the file
 def substract(x,y):
     pass
